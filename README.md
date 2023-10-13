@@ -13,7 +13,7 @@
 
   Pe pozitia 2 se pune _ 
 
-     ###     Pentru adunare
+      ###     Pentru adunare
       ```odobleja
           var z _ x + y   
        ```
