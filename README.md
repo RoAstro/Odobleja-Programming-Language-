@@ -10,7 +10,9 @@
        ```
       *var* este pe pozitia 1; numele variabilei este pe pozitia 2(poate sa fie si un numar; obligatoriu diferita de *_* ); valoarea numerica a variabilei este pe pozitia 3
      ##   Pentru a seta o variabila la o valoare speciala:
+
   Pe pozitia 2 se pune *_*.
+
      ###     Pentru adunare
       ```odobleja
           var z _ x + y   
