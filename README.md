@@ -10,58 +10,59 @@
        ```
       *var* este pe pozitia 1; numele variabilei este pe pozitia 2(poate sa fie si un numar; obligatoriu diferita de *_* ); valoarea numerica a variabilei este pe pozitia 3
      ##   Pentru a seta o variabila la o valoare speciala:
+  Pe pozitia 2 se pune *_*.
      ###     Pentru adunare
       ```odobleja
-          var z x + y   
+          var z _ x + y   
        ```
       z=x+y
       ###     Pentru scadere
       ```odobleja
-          var z x - y   
+          var z _ x - y   
        ```
       z=x-y
       ###     Pentru inmultire
       ```odobleja
-          var z x * y   
+          var z _ x * y   
        ```
       z=x*y
       ###     Pentru impartire
       ```odobleja
-          var z x / y   
+          var z _ x / y   
        ```
       z=x/y
       ###     Pentru impartire fara rest(div)
       ```odobleja
-          var z x // y   
+          var z _ x // y   
        ```
       z=x div y
       ###     Pentru rest(mod)
       ```odobleja
-          var z x % y    
+          var z _ x % y    
        ```
       z=x mod y
       ###     Pentru puteri
       ```odobleja
-          var z x ** y   
+          var z _ x ** y   
        ```
       z=x^y
       ###     Pentru radacina patrata
       ```odobleja
-          var z x ///    
+          var z _ x ///    
        ```
       z=sqrt(x)
       ###     Pentru egalitate
       ```odobleja
-          var z x = y    
+          var z _ x = y    
        ```
       Daca *x=y*, atunci z=1; daca *x≠y*, atunci z = 0.
       ###     Pentru inegalitate(mai mare)
       ```odobleja
-          var z x > y    
+          var z _ x > y    
        ```
       Daca *x>y*, atunci z=1; daca *x<y*, atunci z = 0.
       ###     Pentru inegalitate(mai mic)
       ```odobleja
-          var z x < y    
+          var z _ x < y    
        ```
       Daca *x<y*, atunci z=1; daca *x>y*, atunci z = 0.
