@@ -13,7 +13,7 @@
       *var* este pe pozitia 1; numele variabilei este pe pozitia 2(poate sa fie si un numar; obligatoriu diferita de *_* ); valoarea numerica a variabilei este pe pozitia 3
  2. ##   Pentru a seta o variabila la o valoare speciala:
 
-         Pe pozitia 2 se pune _ 
+       Pe pozitia 2 se pune *_* . 
 
      1. ###     Pentru adunare
 
