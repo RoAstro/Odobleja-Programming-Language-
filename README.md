@@ -17,17 +17,17 @@
       ```odobleja
           var z _ x + y   
        ```
-        z=x+y
+          z=x+y
       2. ###     Pentru scadere
       ```odobleja
           var z _ x - y   
        ```
-       z=x-y
+         z=x-y
      3.  ###     Pentru inmultire
       ```odobleja
           var z _ x * y   
        ```
-        z=x*y
+          z=x*y
       4. ###     Pentru impartire
       ```odobleja
           var z _ x / y   
