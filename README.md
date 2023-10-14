@@ -21,60 +21,70 @@
           var z _ x + y   
        ```
        z=x+y
-     2. ###     Pentru scadere
+
+      2. ###     Pentru scadere
 
       ```odobleja
           var z _ x - y   
        ```
        z=x-y
+
     3.  ###     Pentru inmultire
 
       ```odobleja
           var z _ x * y   
        ```
        z=x*y
+
     4. ###     Pentru impartire
 
       ```odobleja
           var z _ x / y   
        ```
        z=x/y
+
     5. ###     Pentru impartire fara rest(div)
 
       ```odobleja
           var z _ x // y   
        ```
        z=x div y
+
     6. ###     Pentru rest(mod)
 
       ```odobleja
           var z _ x % y    
        ```
        z=x mod y
+
      7. ###     Pentru puteri
 
       ```odobleja
           var z _ x ** y   
        ```
        z=x^y
+
      8. ###     Pentru radacina patrata
 
       ```odobleja
           var z _ x     
        ```
        z=sqrt(x)
+
      9. ###     Pentru egalitate
 
       ```odobleja
           var z _ x = y    
        ```
        Daca *x=y*, atunci z=1; daca *x≠y*, atunci z = 0.
+
      10. ###     Pentru inegalitate(mai mare)
 
       ```odobleja
           var z _ x > y    
        ```
        Daca *x>y*, atunci z=1; daca *x<y*, atunci z = 0.
+
      11.  ###     Pentru inegalitate(mai mic)
 
       ```odobleja
