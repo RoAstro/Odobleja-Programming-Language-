@@ -9,41 +9,42 @@
           var x 12 
        ```
       x=12
+
       *var* este pe pozitia 1; numele variabilei este pe pozitia 2(poate sa fie si un numar; obligatoriu diferita de *_* ); valoarea numerica a variabilei este pe pozitia 3
  2. ##   Pentru a seta o variabila la o valoare speciala:
 
          Pe pozitia 2 se pune _ 
 
-      1. ###     Pentru adunare
+     1. ###     Pentru adunare
       ```odobleja
           var z _ x + y   
        ```
-          z=x+y
-      2. ###     Pentru scadere
+       z=x+y
+     2. ###     Pentru scadere
       ```odobleja
           var z _ x - y   
        ```
-         z=x-y
-     3.  ###     Pentru inmultire
+       z=x-y
+    3.  ###     Pentru inmultire
       ```odobleja
           var z _ x * y   
        ```
-          z=x*y
-      4. ###     Pentru impartire
+       z=x*y
+    4. ###     Pentru impartire
       ```odobleja
           var z _ x / y   
        ```
-        z=x/y
-     5.  ###     Pentru impartire fara rest(div)
+       z=x/y
+    5.  ###     Pentru impartire fara rest(div)
       ```odobleja
           var z _ x // y   
        ```
-        z=x div y
-      6. ###     Pentru rest(mod)
+       z=x div y
+     6. ###     Pentru rest(mod)
       ```odobleja
           var z _ x % y    
        ```
-        z=x mod y
+       z=x mod y
       7. ###     Pentru puteri
       ```odobleja
           var z _ x ** y   
