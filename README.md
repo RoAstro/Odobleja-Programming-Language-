@@ -13,57 +13,57 @@
 
   Pe pozitia 2 se pune _ 
 
-      ###     Pentru adunare
+       ##     Pentru adunare
       ```odobleja
           var z _ x + y   
        ```
       z=x+y
-      ###     Pentru scadere
+       ##     Pentru scadere
       ```odobleja
           var z _ x - y   
        ```
       z=x-y
-      ###     Pentru inmultire
+       ##     Pentru inmultire
       ```odobleja
           var z _ x * y   
        ```
       z=x*y
-      ###     Pentru impartire
+       ##     Pentru impartire
       ```odobleja
           var z _ x / y   
        ```
       z=x/y
-      ###     Pentru impartire fara rest(div)
+       ##     Pentru impartire fara rest(div)
       ```odobleja
           var z _ x // y   
        ```
       z=x div y
-      ###     Pentru rest(mod)
+       ##     Pentru rest(mod)
       ```odobleja
           var z _ x % y    
        ```
       z=x mod y
-      ###     Pentru puteri
+       ##     Pentru puteri
       ```odobleja
           var z _ x ** y   
        ```
       z=x^y
-      ###     Pentru radacina patrata
+       ##     Pentru radacina patrata
       ```odobleja
-          var z _ x ///    
+          var z _ x     
        ```
       z=sqrt(x)
-      ###     Pentru egalitate
+       ##     Pentru egalitate
       ```odobleja
           var z _ x = y    
        ```
       Daca *x=y*, atunci z=1; daca *x≠y*, atunci z = 0.
-      ###     Pentru inegalitate(mai mare)
+       ##     Pentru inegalitate(mai mare)
       ```odobleja
           var z _ x > y    
        ```
       Daca *x>y*, atunci z=1; daca *x<y*, atunci z = 0.
-      ###     Pentru inegalitate(mai mic)
+       ##     Pentru inegalitate(mai mic)
       ```odobleja
           var z _ x < y    
        ```
