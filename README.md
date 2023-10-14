@@ -2,7 +2,7 @@
 
    Odobleja este un limbaj de programare demonstrativ creat de Simion T. Acesta nu are foarte multe functionalitati si aplicatii in viata reala si este pur demonstrativ. Numele de *ODOBLEJA* vine de la parintele ciberneticii, Stefan Odobleja. Acesta poate fi utilizat folosind ODOBLEJA RUNNER care este trecut cu numele **odobleja.exe**.
 
-## Cum programez- sintaxa:
+## Cum programez? Sintaxa:
  1. ## Setarea unei variabile:
     1. ##   Pentru a seta o variabila la o valoare numerica:
       ```odobleja
