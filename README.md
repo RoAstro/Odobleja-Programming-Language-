@@ -92,3 +92,28 @@
           var z _ x < y    
        ```
        Daca *x<y*, atunci z=1; daca *x>y*, atunci z = 0.
+
+    Numele unei variabile poate fi si un numar. De exemplu:
+    ```
+      odobleja
+    var 15 4
+     ```
+
+  2. # Conditia **daca** (**if**)
+     ```
+     odobleja
+     ? x var y 18
+     ```
+     Daca x=1 => y=18
+     
+     Daca x01 => nu se intampla nimic
+  4. # Conditia **daca NU** (**if NOT**)
+     ```
+     odobleja
+     ?! x var y 45
+     ```
+     Daca x=1 => nu se intampla nimic
+     
+     Daca x=0 => y=45
+     
+        
