@@ -4,7 +4,7 @@
 
 ## Cum programez- sintaxa:
  1. ## Setarea unei variabile:
-    ##   Pentru a seta o variabila la o valoare numerica:
+     ##   Pentru a seta o variabila la o valoare numerica:
       ```odobleja
           var x 12 
        ```
@@ -15,77 +15,77 @@
 
        Pe pozitia 2 se pune *_* . 
 
-     1. ###     Pentru adunare
+      1. ###     Pentru adunare
 
       ```odobleja
           var z _ x + y   
        ```
        z=x+y
 
-      2. ###     Pentru scadere
+       2. ###     Pentru scadere
 
       ```odobleja
           var z _ x - y   
        ```
        z=x-y
 
-    3.  ###     Pentru inmultire
+       3.  ###     Pentru inmultire
 
       ```odobleja
           var z _ x * y   
        ```
        z=x*y
 
-    4. ###     Pentru impartire
+       4. ###     Pentru impartire
 
       ```odobleja
           var z _ x / y   
        ```
        z=x/y
 
-    5. ###     Pentru impartire fara rest(div)
+       5. ###     Pentru impartire fara rest(div)
 
       ```odobleja
           var z _ x // y   
        ```
        z=x div y
 
-    6. ###     Pentru rest(mod)
+       6. ###     Pentru rest(mod)
 
       ```odobleja
           var z _ x % y    
        ```
        z=x mod y
 
-     7. ###     Pentru puteri
+       7. ###     Pentru puteri
 
       ```odobleja
           var z _ x ** y   
        ```
        z=x^y
 
-     8. ###     Pentru radacina patrata
+       8. ###     Pentru radacina patrata
 
       ```odobleja
           var z _ x     
        ```
        z=sqrt(x)
 
-     9. ###     Pentru egalitate
+       9. ###     Pentru egalitate
 
       ```odobleja
           var z _ x = y    
        ```
        Daca *x=y*, atunci z=1; daca *x≠y*, atunci z = 0.
 
-     10. ###     Pentru inegalitate(mai mare)
+      10. ###     Pentru inegalitate(mai mare)
 
       ```odobleja
           var z _ x > y    
        ```
        Daca *x>y*, atunci z=1; daca *x<y*, atunci z = 0.
 
-     11.  ###     Pentru inegalitate(mai mic)
+      11.  ###     Pentru inegalitate(mai mic)
 
       ```odobleja
           var z _ x < y    
