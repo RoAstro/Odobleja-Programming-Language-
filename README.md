@@ -77,12 +77,15 @@
 
        9. ###     Pentru egalitate
 
-      ```odobleja
+      ```
           var z _ x = y    
        ```
+      
        Daca *x=y*, atunci z=1; daca *x≠y*, atunci z = 0.
 
-        ![](https://github.com/RoAstro/Odobleja-Programming-Language-/blob/main/egal.png?raw=true)
+
+    ![img](https://github.com/RoAstro/Odobleja-Programming-Language-/blob/main/egal.png?raw=true)
+
 
       10. ###     Pentru inegalitate(mai mare)
 
