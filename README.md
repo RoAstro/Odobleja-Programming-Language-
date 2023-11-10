@@ -102,13 +102,14 @@
 
   2. # Conditia **daca** (**if**)
      ```
-     
-     
      ? x var y 18
      ```
      Daca x=1 => y=18
      
      Daca x=0 => nu se intampla nimic
+
+     ![](https://github.com/RoAstro/Odobleja-Programming-Language-/blob/main/daca.png?raw=true)
+     
   4. # Conditia **daca NU** (**if NOT**)
      ```
      
