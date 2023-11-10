@@ -100,10 +100,11 @@
 
     Numele unei variabile poate fi si un numar. De exemplu:
     ```
-      
-    
     var 15 4
      ```
+
+      ![](https://github.com/RoAstro/Odobleja-Programming-Language-/blob/main/var%20nr.png?raw=true)
+
 
   2. # Conditia **daca** (**if**)
      ```
