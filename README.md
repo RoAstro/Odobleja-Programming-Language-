@@ -23,6 +23,9 @@
        ```
        z=x+y
 
+       ![](https://github.com/RoAstro/Odobleja-Programming-Language-/blob/main/plus.png?raw=true)
+
+
        2. ###     Pentru scadere
 
       ```odobleja
