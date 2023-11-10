@@ -125,6 +125,8 @@
      
      Daca x=0 => y=45
 
+
+
 Pentru a afisa toate variabilele inroduceti **#var** in cod.
 ![](https://github.com/RoAstro/Odobleja-Programming-Language-/blob/main/%23var.png?raw=true)
 
