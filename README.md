@@ -133,6 +133,11 @@
      Daca x=1 => nu se intampla nimic
      
      Daca x=0 => y=45
+  5. # Deschiderea unui fisier care contine codul pe care doriti sa il rulati
+     ```odobleja
+     #r fisier.odblj
+     ```
+     In loc de fisier.odblj puneti numele fisierului.
 
 
 
