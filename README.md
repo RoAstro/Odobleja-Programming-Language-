@@ -6,13 +6,19 @@
  1. ## Setarea unei variabile:
     1. ##   Pentru a seta o variabila la o valoare numerica:
       ```odobleja
-          var x 12 
+          var x 12n
        ```
       x=12
 
       *var* este pe pozitia 1; numele variabilei este pe pozitia 2(poate sa fie si un numar; obligatoriu diferita de *_* ); valoarea numerica a variabilei este pe pozitia 3.
 
-    2. ##   Pentru a seta o variabila la o valoare speciala:
+    2. ##   Pentru a seta o variabila la o valoare alfanumerica:
+   
+       ```odobleja
+       var #txt# x |Exemplu de text|
+       ```
+       *var* este pe pozitia 1; #txt# este pe pozitia 2; numele variabilei este pe pozitia 3; textul este pe pozitia 4 cuprins intre 2 |
+    3. ##   Pentru a seta o variabila la o valoare speciala:
 
        Pe pozitia 2 se pune *_* . 
 
@@ -109,7 +115,7 @@
       ![](https://github.com/RoAstro/Odobleja-Programming-Language-/blob/main/var%20nr.png?raw=true)
 
 
-  2. # Conditia **daca** (**if**)
+  3. # Conditia **daca** (**if**)
      ```
      ? x var y 18
      ```
