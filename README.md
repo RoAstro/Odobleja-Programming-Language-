@@ -6,7 +6,7 @@
  1. ## Setarea unei variabile:
     1. ##   Pentru a seta o variabila la o valoare numerica:
       ```odobleja
-          var x 12n
+          var x 12
        ```
       x=12
 
