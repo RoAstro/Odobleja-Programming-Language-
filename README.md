@@ -156,6 +156,30 @@ Intre fiecare comanda se pune **;**
 Ultima comanda este **out**
 
 Pentru a afisa o anumita variabila (ex: z), scrieti **afi z**
+
+
+
+Exemplu de cod pentru a calcula primele max=10 numere din sirul lui Fibonacci:
+
+```odobleja
+var 0 0;
+var 1 1;
+var n 10;
+var num1 0;
+var num2 1;
+var _ urm num2 + 0;
+var i 1;
+var max 10;
+### Fiecare numar din sirul lui Fibonacci este suma celor 2 numere Fibonacci anterioare;
+oo max;
+afi urm;
+var _ i i + 1;
+var _ num1 num2 + 0;
+var _ num2 urm + 0;
+var _ urm num1 + num2;
+#oostop;
+out;
+```
      
      
         
