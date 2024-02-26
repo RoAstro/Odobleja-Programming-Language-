@@ -133,7 +133,14 @@
      Daca x=1 => nu se intampla nimic
      
      Daca x=0 => y=45
-  5. # Deschiderea unui fisier care contine codul pe care doriti sa il rulati
+  5. # Bucla
+     ```odobleja
+     oo n;
+     -actiune-
+     #oostop;
+     ```
+     Se incepe cu oo n; .Pe n il inlocuiti cu numele variabilei care contine numarul de repetitii. In loc de -actiune- puneti comenzile pe care doriti sa le repetati. Dupa ultima comanda care trebuie repetata se pune #oostop; .
+  7. # Deschiderea unui fisier care contine codul pe care doriti sa il rulati
      ```odobleja
      #r fisier.odblj
      ```
