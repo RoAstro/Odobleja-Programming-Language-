@@ -113,11 +113,12 @@
      ```
 
       ![](https://github.com/RoAstro/Odobleja-Programming-Language-/blob/main/var%20nr.png?raw=true)
+    
       12. ###     Pentru citirea unui fisier
-          ```odobleja
+      ```odobleja
           var _ x fcit locatie_fisier
-          ```
-              In loc de locatie_fisier puneti numele variabilei care contine locatia fisierului.
+      ```
+    In loc de locatie_fisier puneti numele variabilei care contine locatia fisierului.
   3. # Conditia **daca** (**if**)
      ```
      ? x var y 18
@@ -153,7 +154,7 @@
      ```odobleja
      #fplus s locatie_fisier text;
      ```
-      In loc de locatie_fisier puneti numele variabilei in care aveti locatia fisierului. In loc de text puneti numele variabilei care contine textul dorit. Pe pozitia 2 puteti scrie s(rescrie) sau a(adauga la finalul fisierului.
+     In loc de locatie_fisier puneti numele variabilei in care aveti locatia fisierului. In loc de text puneti numele variabilei care contine textul dorit. Pe pozitia 2 puteti scrie s(rescrie) sau a(adauga la finalul fisierului.
 
 
 Pentru a afisa toate variabilele inroduceti **#var** in cod.
