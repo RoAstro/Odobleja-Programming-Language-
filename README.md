@@ -113,8 +113,11 @@
      ```
 
       ![](https://github.com/RoAstro/Odobleja-Programming-Language-/blob/main/var%20nr.png?raw=true)
-
-
+      12. ###     Pentru citirea unui fisier
+          ```odobleja
+          var _ x fcit locatie_fisier
+          ```
+              In loc de locatie_fisier puneti numele variabilei care contine locatia fisierului.
   3. # Conditia **daca** (**if**)
      ```
      ? x var y 18
@@ -140,12 +143,17 @@
      #oostop;
      ```
      Se incepe cu oo n; .Pe n il inlocuiti cu numele variabilei care contine numarul de repetitii. In loc de -actiune- puneti comenzile pe care doriti sa le repetati. Dupa ultima comanda care trebuie repetata se pune #oostop; .
-  7. # Deschiderea unui fisier care contine codul pe care doriti sa il rulati
+  6. # Deschiderea unui fisier care contine codul pe care doriti sa il rulati
      ```odobleja
      #r fisier.odblj
      ```
      In loc de fisier.odblj puneti numele fisierului.
 
+  7. # Scrierea de text intr-un fisier
+     ```odobleja
+     #fplus s locatie_fisier text;
+     ```
+      In loc de locatie_fisier puneti numele variabilei in care aveti locatia fisierului. In loc de text puneti numele variabilei care contine textul dorit. Pe pozitia 2 puteti scrie s(rescrie) sau a(adauga la finalul fisierului.
 
 
 Pentru a afisa toate variabilele inroduceti **#var** in cod.
